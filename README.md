@@ -1,6 +1,6 @@
 👋 Hi, I'm Betül 
-🔭 Abant İzzet Baysal University / Food Engineering (Master of Science)
 
+🔭 Abant İzzet Baysal University / Food Engineering (Master of Science)
 
 🌱 Courses:
  - Modern tekniklerle Web Geliştirme ( Web Development ) Öğrenin. HTML,CSS, Node , JavaScript, React, Angular, ASP.NET Core (Mustafa Murat Coşkun & Engin Demiroğ)
