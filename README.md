@@ -3,7 +3,7 @@
 🔭 Abant İzzet Baysal University / Food Engineering (Master of Science)
 
 🌱 Courses:
- - Modern tekniklerle Web Geliştirme ( Web Development ) Öğrenin. HTML,CSS, Node , JavaScript, React, Angular, ASP.NET Core (Mustafa Murat Coşkun & Engin Demiroğ)
+ - Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps (Dr. Angela Yu)
  - PYTHON, JAVA, C# gibi tüm programlama dilleri için temel programlama mantığını anlaşılır örneklerle öğrenin (Engin Demiroğ)
 
 <!--
